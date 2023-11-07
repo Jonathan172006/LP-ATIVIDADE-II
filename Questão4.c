@@ -12,7 +12,7 @@ int main() {
     if(idade >= 18) {
         printf("\nAcesso permitido");
     }
-    else (idade >= 17) {
+    else {
         printf("\nAcesso negado");
     }
     return 0;
